@@ -205,5 +205,7 @@ flutter build web --dart-define FLAVOR=prod
 ---
 Created by Extrawest Mobile Team
 [Extrawest.com](https://www.extrawest.com), 2022
----
+--
 netlify
+
+if cd flutter; then git pull && cd ..; else git clone https://github.com/SamMAdmaN/web_app_trainitng.git; fi && flutter/bin/flutter config --enable-web && flutter/bin/flutter build web --release
