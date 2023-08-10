@@ -1,0 +1,7 @@
+#Sun May 21 22:38:52 EEST 2023
+base.1=/Users/alex/StudioProjects/bloc_starter/bloc_starter_test/build/app/intermediates/dex/prodDebug/mergeDexProdDebug/classes2.dex
+path.1=classes2.dex
+base.0=/Users/alex/StudioProjects/bloc_starter/bloc_starter_test/build/app/intermediates/dex/prodDebug/mergeDexProdDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "327832242264",
+    "project_id": "blocteststarter",
+    "storage_bucket": "blocteststarter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327832242264:android:b0209f391111c66f76a22d",
+        "android_client_info": {
+          "package_name": "com.blocStarterTest.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327832242264-v5au3llt0897iiovdpi6ivquiq3lgcc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5JUZ8j8Xz9eWO20A98sqZr8GKY0Y7NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327832242264-v5au3llt0897iiovdpi6ivquiq3lgcc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327832242264-1pvrqjvvi2te5kaus04omm86l86ikaft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.extrawest.blocstarterapp.blocStarterTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
